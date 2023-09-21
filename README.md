@@ -1,9 +1,9 @@
 ﻿# docautoshare
 
 ## install
-#pip install python-docx
-#pip install xlrd
-#pip install pandas
+##pip install python-docx
+##pip install xlrd
+##pip install pandas
 
 pandas is not used in this example, but is used on my automation
 ...
