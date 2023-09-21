@@ -10,6 +10,8 @@ pandas is not used in this example, but is used on my automation
 Pull and run docautomate.py
 then run excelautomate.py
 
+each will have inputdoc.docx, inputdoc.docx + input.xls as input, and output.docx, output2.docx as output.
+
 this will create two files, each which..
 
 output - will have text editted with result of 8
